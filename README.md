@@ -1,6 +1,8 @@
 # Collaterals
 
 ### General documents used for explanation of IoT, LoRa, TTN, etc
-The goal is to have ready materials that have been reviewed by TTN NY membership for use internally
-as well as by external actors interested in learning more about what the group is working on.
+Materials that have been reviewed by TTN NY and Ithaca membership for use internally
+as well as externally. Please share!
+
+Thanks to **Jon Bosak**, **@IthacaThings**, **@terrillmoore**, **@frankleonrose**, **@GitableRoy** and others for their contribution to these materials. 
 
